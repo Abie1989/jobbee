@@ -4925,6 +4925,59 @@ a.page-link i{
 	.login-sec .justlogin {
 		padding: 25px 10px 0;
 	}
+	/* ==== jobforYou ==== */
+	.jobBox h3 {
+		font-size: 18.13px !important;
+	}
+	
+	.jobBox:hover .jobBox-hover {
+		top: 0;
+	}
+	
+	.jobBox {
+		margin-bottom: 70px;
+	}
+	
+	.jobBox .card {
+		border-radius: 22px;
+	}
+	
+	.joblist_Left h4 {
+		font-size: 18.96px;
+	}
+	
+	.joblist_Left .custom-control {
+		font-size: 12.92px;
+	}
+	
+	.joblist_Left label.custom-control-label { padding: 0;}
+	
+	#slideProfile a.btn-floating.prev, #slideProfile a.btn-floating.next {
+		position: inherit;
+		padding: 2px 6px;
+	}
+	
+	.proFile .controls-top {
+		text-align: center;
+		padding-bottom: 70px;
+	}
+	
+	.joblist_Right .btn-outline-dark, .companyLeft_list .btn-outline-dark{
+		padding: 5px 25px;
+		font-size: 15.62px !important;
+	}
+	
+	.exoInner h6 {
+		font-size: 15px;
+	}
+	
+	.jobPart .pt-sm-0, .weCompany .pt-sm-0, .overview .pt-sm-0 {
+		padding-top: 0 !important;
+	}
+	
+	.w-90 {
+		width: auto;
+	}
 	
 }
 /* ============================== */
@@ -4949,8 +5002,58 @@ a.page-link i{
 		font-size: 18.93px !important;
 	}
 	
+	/* ==== jobforYou ==== */
+	.jobBox h3 {
+		font-size: 18.13px !important;
+	}
+	
+	.jobBox:hover .jobBox-hover {
+		top: 0;
+	}
+	
+	.jobBox {
+		margin-bottom: 70px;
+	}
+	
 	.jobBox .card {
-		border-radius: 30px;
+		border-radius: 22px;
+	}
+	
+	.joblist_Left h4 {
+		font-size: 18.96px;
+	}
+	
+	.joblist_Left .custom-control {
+		font-size: 12.92px;
+	}
+	
+	.joblist_Left label.custom-control-label { padding: 0;}
+	
+	#slideProfile a.btn-floating.prev, #slideProfile a.btn-floating.next {
+		position: inherit;
+		padding: 2px 6px;
+	}
+	
+	.proFile .controls-top {
+		text-align: center;
+		padding-bottom: 70px;
+	}
+	
+	.joblist_Right .btn-outline-dark, .companyLeft_list .btn-outline-dark{
+		padding: 5px 25px;
+		font-size: 15.62px !important;
+	}
+	
+	.exoInner h6 {
+		font-size: 15px;
+	}
+	
+	.jobPart .pt-sm-0, .weCompany .pt-sm-0, .overview .pt-sm-0 {
+		padding-top: 0 !important;
+	}
+	
+	.w-90 {
+		width: auto;
 	}
 	
 	/* ==== latestBlog ==== */
@@ -5032,6 +5135,59 @@ a.page-link i{
 	
 	.latestBlog .card {
 		border-radius: 20px;
+	}
+	/* ==== jobforYou ==== */
+	.jobBox h3 {
+		font-size: 18.13px !important;
+	}
+	
+	.jobBox:hover .jobBox-hover {
+		top: 0;
+	}
+	
+	.jobBox {
+		margin-bottom: 70px;
+	}
+	
+	.jobBox .card {
+		border-radius: 22px;
+	}
+	
+	.joblist_Left h4 {
+		font-size: 18.96px;
+	}
+	
+	.joblist_Left .custom-control {
+		font-size: 12.92px;
+	}
+	
+	.joblist_Left label.custom-control-label { padding: 0;}
+	
+	#slideProfile a.btn-floating.prev, #slideProfile a.btn-floating.next {
+		position: inherit;
+		padding: 2px 6px;
+	}
+	
+	.proFile .controls-top {
+		text-align: center;
+		padding-bottom: 70px;
+	}
+	
+	.joblist_Right .btn-outline-dark, .companyLeft_list .btn-outline-dark{
+		padding: 5px 25px;
+		font-size: 15.62px !important;
+	}
+	
+	.exoInner h6 {
+		font-size: 15px;
+	}
+	
+	.jobPart .pt-sm-0, .weCompany .pt-sm-0, .overview .pt-sm-0 {
+		padding-top: 0 !important;
+	}
+	
+	.w-90 {
+		width: auto;
 	}
 }
 /* ================================= */
